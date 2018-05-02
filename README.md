@@ -1,3 +1,3 @@
 Random forest classification
 -------------
-BI first-year project
+A simple implementation of Random Forest Classification algorith in C#/WinForms
