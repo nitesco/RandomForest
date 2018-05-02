@@ -1,3 +1,3 @@
-Random forest Classification
+Random Forest Classification
 -------------
-A simple implementation of Random Forest Classification algorith in C#/WinForms
+A simple implementation of Random Forest algorith in C#/WinForms
